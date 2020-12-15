@@ -1,1 +1,1 @@
-# lift-analysis-on-car-brands
+# Lift Analysis on Car Brands
