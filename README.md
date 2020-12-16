@@ -1,5 +1,5 @@
 # Lift Analysis on Car Brands  
-![intro_bkgd](https://user-images.githubusercontent.com/47257479/102412914-c1ed8300-3fb9-11eb-9a8d-19365f1d33a4.jpg)  
+![intro_bkgd](https://user-images.githubusercontent.com/47257479/102415236-72a95180-3fbd-11eb-90bf-102df808264a.png)  
 
 ## Introduction  
 User Generated Content (UGC) is any form of content, such as images, videos, text, and audio, that has been posted by users on online platforms such as social media and wikis. Over the years, people from various industries have realized the huge potential business value behind UGC in terms of target marketing, product management and so on. In this project, we analyzed on the UGC from [Edmunds](https://forums.edmunds.com/) to sketch consumers' perception of their car brand and the brand's competitors. We attempt to translate the user-generated content to market structure and competitive landscape insights.  
