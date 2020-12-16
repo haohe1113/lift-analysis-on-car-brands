@@ -24,7 +24,7 @@ Assuming that our brand manager works at Saturn, we can show that there is a hig
 If, on the other hand, our brand manager is from Chevrolet, we can show that the cars are being compared too similarly.  Given the reputation of Chevrolet, it seems as though the brand manager is doing a good job of marketing Chevrolet.  It may still be useful, however, to bring up the fact that the Saturn Aura is being compared with the Chevrolet Malibu at the same level. 
 
 ## Section B: Car Attribute Analysis  
-**In this section, we will identify the attributes that are strongly associated with the polular brands, based on that, we will provide marketing and product-managing advice to each popular brand.**  
+**In this section, we will identify the attributes that are strongly associated with the polular brands, based on that, we will provide marketing and product-managing advice to each popular carmaker.**  
 
 ### Lift Table on Polular Car Brands vs Attributes  
 ![lt2](https://user-images.githubusercontent.com/47257479/102414503-46d99c00-3fbc-11eb-834c-12c30d798b3c.png)  
