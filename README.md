@@ -37,5 +37,5 @@ Toyota cars are not really known for looking good or being strong performers.  T
 ## Extra: Aspirational Car Brand  
 **Which is the most aspirational brand in terms of people actually wanting to buy or own?**    
 We chose common phrases that people use to express aspiration.  We went through a these posts to determine these phrases as indicators for the most aspirational brand.  We replaced these phrases with the word "aspiration" and then calculated lifts between this word and the brands, to find the most "aspirational" brand.  
-### Hidden Bot caught by us
+### We Caught a Bot!
 Based on the analysis, there is a bias in this forum towards suzuki cars.  The explanation can be found with the comments made by `iluvmysephia1`, who has inflated the forum with their love for the Suzuki brand.  In most (if not all) of their posts, they express their opinion on Suzuki as the superior brand for Mid-Sized Sedans.  As a suggestion, it may be a good idea for companies to create their own bots to counter this inflation with their own aspirational posts.  That way, consumers that visit this post won't be swayed by this individual's posts, but rather will have a range of options to consider.
