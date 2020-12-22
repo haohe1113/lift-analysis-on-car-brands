@@ -45,7 +45,7 @@ We found that people who talk about Mazda typically don't talk about value and r
 Toyota cars are not really known for looking good or being strong performers.  To improve in this area, we would recommend that the product managers hire designers that can improve in these areas.  We would recommend that the marketing/advertising manager emphasize the aesthetics of these cars.  
 
 ## Extra  
-**Aspirational Car Brand** 
+**Aspirational Car Brand**   
 **Which is the most aspirational brand in terms of people actually wanting to buy or own?**    
 We chose common phrases that people use to express aspiration.  We went through a these posts to determine these phrases as indicators for the most aspirational brand.  We replaced these phrases with the word "aspiration" and then calculated lifts between this word and the brands, to find the most "aspirational" brand.  
 ### We Caught a Bot!
