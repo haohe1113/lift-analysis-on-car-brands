@@ -2,9 +2,9 @@
 ![intro_bkgd](https://user-images.githubusercontent.com/47257479/102415236-72a95180-3fbd-11eb-90bf-102df808264a.png)  
 
 ## Quick Links  
-- [Introduction](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Introduction)  
+- [Introduction](#Introduction)  
 - [Pakages Used](#Pakages-Used)  
-- [Section A: Lift Analysis on Car Brands](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Section-A:-Lift-Analysis-on-Car-Brands--)   
+- [Section A: Lift Analysis on Car Brands](#Section-A)   
 - [Analysis and Insights](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Analysis-and-Insights)  
 
 ## Introduction  
@@ -16,7 +16,8 @@ User Generated Content (UGC) is any form of content, such as images, videos, tex
 * selenium  
 * nltk  
 
-## Section A: Lift Analysis on Car Brands  
+## Section A 
+**Lift Analysis on Car Brands**    
 **In this section, we will identify the top 10 mostly mentioned brands by consumers from the UGC we just scraped. Then, we will calculate lift ratios for associations between each pair of the top 10 brands and present a lift table. We *will* also visualize the lift table by a MDS map.**   
 
 ### Lift Table  
