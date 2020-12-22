@@ -5,7 +5,9 @@
 - [Introduction](#Introduction)  
 - [Pakages Used](#Pakages-Used)  
 - [Section A: Lift Analysis on Car Brands](#Section-A)   
-- [Analysis and Insights](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Analysis-and-Insights)  
+- [Section B: Car Attribute Analysis](#Section-B)   
+- [Extra: Aspirational Car Brands](#Extra)   
+
 
 ## Introduction  
 User Generated Content (UGC) is any form of content, such as images, videos, text, and audio, that has been posted by users on online platforms such as social media and wikis. Over the years, people from various industries have realized the huge potential business value behind UGC in terms of target marketing, product management and so on. In this project, we analyzed on the UGC from [Edmunds](https://forums.edmunds.com/) to sketch consumers' perception of their car brand and the brand's competitors. We attempt to translate the user-generated content to market structure and competitive landscape insights.  
@@ -30,7 +32,8 @@ User Generated Content (UGC) is any form of content, such as images, videos, tex
 Assuming that our brand manager works at Saturn, we can show that there is a high lift between Saturn and Chevrolet.  Based on the comments in the forum, they are usually being compared as similar cars.  However, in the United States, Saturn cars are generally not popular in comparison to Chevrolet cars.  Given this, the brand manager could make the brand more popular by hiring celebrities to show off their vehicles.  
 If, on the other hand, our brand manager is from Chevrolet, we can show that the cars are being compared too similarly.  Given the reputation of Chevrolet, it seems as though the brand manager is doing a good job of marketing Chevrolet.  It may still be useful, however, to bring up the fact that the Saturn Aura is being compared with the Chevrolet Malibu at the same level. 
 
-## Section B: Car Attribute Analysis  
+## Section B
+**Car Attribute Analysis**  
 **In this section, we will identify the attributes that are strongly associated with the polular brands, based on that, we will provide marketing and product-managing advice to each popular carmaker.**  
 
 ### Lift Table on Polular Car Brands vs Attributes  
@@ -41,7 +44,8 @@ For Ford, performance and reliability have low lift values, and so a recommendat
 We found that people who talk about Mazda typically don't talk about value and reliability.  We would recommend that Mazda improve their cars by making them more affordable or more safe.  For the advertising manager, we would recommend using commercials that emphasized safety.  
 Toyota cars are not really known for looking good or being strong performers.  To improve in this area, we would recommend that the product managers hire designers that can improve in these areas.  We would recommend that the marketing/advertising manager emphasize the aesthetics of these cars.  
 
-## Extra: Aspirational Car Brand  
+## Extra  
+**Aspirational Car Brand** 
 **Which is the most aspirational brand in terms of people actually wanting to buy or own?**    
 We chose common phrases that people use to express aspiration.  We went through a these posts to determine these phrases as indicators for the most aspirational brand.  We replaced these phrases with the word "aspiration" and then calculated lifts between this word and the brands, to find the most "aspirational" brand.  
 ### We Caught a Bot!
