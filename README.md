@@ -4,7 +4,7 @@
 ## Quick Links  
 - [Introduction](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Introduction)  
 - [Pakages Used](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Pakages-Used)  
-- [Section A: Lift Analysis on Car Brands](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Section-A:-Lift-Analysis-on-Car-Brands)   
+- [Section A: Lift Analysis on Car Brands](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Section-A:-Lift-Analysis-on-Car-Brands--)   
 - [Analysis and Insights](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/README.md#Analysis-and-Insights)  
 
 ## Introduction  
