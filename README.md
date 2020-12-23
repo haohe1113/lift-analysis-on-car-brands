@@ -9,7 +9,7 @@
 
 
 ## Introduction  
-User Generated Content (UGC) is any form of content, such as images, videos, text, and audio, that has been posted by users on online platforms such as social media and wikis. Over the years, people from various industries have realized the huge potential business value behind UGC in terms of target marketing, product management and so on. In this project, we analyzed on the UGC from [Edmunds](https://forums.edmunds.com/) to sketch consumers' perception of their car brands and the brand's competitors. We attempt to translate the user-generated content to market structure and competitive landscape insights.  
+User Generated Content (UGC) is any form of content, such as images, videos, text, and audio, that has been posted by users on online platforms such as social media and wikis. Over the years, people from various industries have realized the huge potential business value behind UGC in terms of target marketing, product management and so on. In this project, we analyzed UGC from [Edmunds](https://forums.edmunds.com/) to sketch consumers' perception of their car brands and the brand's competitors. We attempted to translate the user-generated content to market structure and competitive landscape insights.  
 
 ### Packages Used  
 * Pandas  
