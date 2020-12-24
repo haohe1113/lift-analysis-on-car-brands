@@ -14,8 +14,8 @@ User Generated Content (UGC) is any form of content, such as images, videos, tex
 ### Packages Used  
 * Pandas  
 * NumPy  
-* selenium  
-* nltk  
+* Selenium  
+* NLTK  
 
 Our code could be found [here](https://github.com/haohe1113/lift-analysis-on-car-brands/blob/main/lift_analysis_on_car_brand.ipynb)  
 
